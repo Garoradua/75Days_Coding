@@ -5,7 +5,7 @@ int main(){
 	int t;
 	cin >> t;
 	while(t--){
-		int N, M;
+		 int N, M;
 		cin >> N >> M;
 		int basket[N];
 		int Price[N];
